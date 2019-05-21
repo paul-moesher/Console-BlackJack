@@ -1,0 +1,7 @@
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\bin\Debug\BlackJack.Console.exe.config
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\bin\Debug\BlackJack.Console.exe
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\bin\Debug\BlackJack.Console.pdb
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\obj\Debug\BlackJack.Console.csprojAssemblyReference.cache
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\obj\Debug\BlackJack.Console.csproj.CoreCompileInputs.cache
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\obj\Debug\BlackJack.Console.exe
+C:\Users\Paul Moesher\Desktop\Console-BlackJack\BlackJack\BlackJack.Console\obj\Debug\BlackJack.Console.pdb
